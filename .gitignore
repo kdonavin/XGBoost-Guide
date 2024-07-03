@@ -1,1 +1,3 @@
 ARCHIVE/
+.venv/ 
+.ipynb_checkpoints/
